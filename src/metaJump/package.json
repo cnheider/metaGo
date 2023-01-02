@@ -320,11 +320,11 @@
         "raw-loader": "^4.0.1",
         "source-map-support": "^0.5.19",
         "terser-webpack-plugin": "^2.3.5",
-        "ts-loader": "^6.2.2",
+        "ts-loader": "^9.4.2",
         "typescript": "^3.8.3",
         "vsce": "^1.75.0",
-        "webpack": "^4.42.1",
-        "webpack-cli": "^3.3.11"
+        "webpack": "^5.75.0",
+        "webpack-cli": "^5.0.1"
     },
     "dependencies": {
         "semver": "^7.2.2"
